@@ -1,5 +1,5 @@
-## Olá! Prazer, eu sou Kenzo Friás
-
+## Hello! Pleasure, i am Kenzo Friás
+<p>I'm currently studying Information of Systems in Federal Rural University of the Amazon (UFRA). Learn more about me...</p>
 <div style="display: inline_block"><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&theme=github_dark&show_icons=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=16&theme=github_dark"/>  
