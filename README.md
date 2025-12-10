@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004173&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Kenzo+Friás;I+study+Information+of+Systems+at+the;Federal+Rural+University+of+the+Amazon+(UFRA);Be+Welcome!)](https://git.io/typing-svg) 
 
 <div style="display: inline_block" align="center"><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&theme=github_dark&show_icons=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=16&theme=github_dark"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&show_icons=true&count_private=true&hide_border=true&title_color=004173&icon_color=004173&text_color=004173&bg_color=0d1117" alt="Kenzo Friás github stats">
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=16&theme=github_dark"/> 
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=000000&color=004173&line=004173&point=004173&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
