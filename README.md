@@ -18,12 +18,12 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block">
-  <img alt="JavaScript" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
-  <img alt="HTML5" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-  <img alt="CSS3" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-  <img alt="NodeJS" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
-  <img alt="npm" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg">
-  <img alt="VSCode" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+  <img alt="JavaScript" width="50px" src="https://skillicons.dev/icons?i=js">
+  <img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html">
+  <img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css">
+  <img alt="NodeJS" width="50px" src="https://skillicons.dev/icons?i=nodejs">
+  <img alt="npm" width="50px" src="https://skillicons.dev/icons?i=npm">
+  <img alt="VSCode" width="50px" src="https://skillicons.dev/icons?i=vscode">
 </div>
 
 <br>
