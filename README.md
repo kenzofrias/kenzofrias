@@ -1,21 +1,35 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004173&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004173&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Kenzo+Friás;I+study+Information+of+Systems+at+the;Federal+Rural+University+of+the+Amazon+(UFRA);Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004173&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kenzo+Friás;Seja+bem-vindo!)](https://git.io/typing-svg) 
+
+##
+
+<div align="center">
+  <p>
+    Sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia(UFRA). <br>
+    Atualmente estou me desenvolvendo na área de Desenvolvimento Web Full-Stack e adquirindo conhecimentos sobre <br>ferramentas como <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Node.js</strong>, <strong>NPM</strong>, etc.
+  </p>
+</div>  
 
 <div style="display: inline_block" align="center"><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&show_icons=true&count_private=true&hide_border=true&title_color=004173&icon_color=004173&text_color=004173&bg_color=0d1117" alt="Kenzo Friás github stats">
-  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=16&theme=github_dark"/> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=000000&color=004173&line=004173&point=004173&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript" target="_blank">
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5" target="_blank">
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=264DE4" target="_blank">
-  <img src="https://img.shields.io/badge/-NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" target="_blank">
+## 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block">
+  <img alt="JavaScript" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  <img alt="HTML5" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+  <img alt="CSS3" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+  <img alt="NodeJS" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+  <img alt="npm" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/npm.svg">
+  <img alt="VSCode" width="50px" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
 </div>
+
+<br>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=0D1117&color=004173&line=004173&point=004173&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center"> 
