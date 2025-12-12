@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004173&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004173&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kenzo+Friás;Seja+bem-vindo!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2b58de&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kenzo+Friás;Seja+bem-vindo!)](https://git.io/typing-svg) 
 
 ##
 
@@ -12,8 +12,8 @@
 </div>  
 
 <div style="display: inline_block" align="center"><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&show_icons=true&count_private=true&hide_border=true&title_color=004173&icon_color=004173&text_color=004173&bg_color=0d1117" alt="Kenzo Friás github stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=16&theme=github_dark"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&show_icons=true&count_private=true&title_color=2b58de&icon_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br" alt="Kenzo Friás github stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=6&title_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br"/> 
 </div>
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -23,13 +23,14 @@
   <img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css">
   <img alt="NodeJS" width="50px" src="https://skillicons.dev/icons?i=nodejs">
   <img alt="npm" width="50px" src="https://skillicons.dev/icons?i=npm">
+  <img alt="C#" width="50px" src="https://skillicons.dev/icons?i=cs">
   <img alt="VSCode" width="50px" src="https://skillicons.dev/icons?i=vscode">
 </div>
 
 <br>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=0D1117&color=004173&line=004173&point=004173&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=0D1117&color=2b58de&line=2b58de&point=2b58de&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições+de+Kenzo+Friás)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center"> 
@@ -38,4 +39,4 @@
   <a href="https://www.linkedin.com/in/kenzofrias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004173&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b58de&height=120&section=footer"/>
