@@ -16,17 +16,21 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=6&title_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br"/> 
 </div>
 
+<br>
+
 ## 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block">
-  <img alt="JavaScript" width="50px" src="https://skillicons.dev/icons?i=js">
-  <img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html">
-  <img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css">
-  <img alt="NodeJS" width="50px" src="https://skillicons.dev/icons?i=nodejs">
-  <img alt="npm" width="50px" src="https://skillicons.dev/icons?i=npm">
-  <img alt="C#" width="50px" src="https://skillicons.dev/icons?i=cs">
-  <img alt="VSCode" width="50px" src="https://skillicons.dev/icons?i=vscode">
+  <img alt="JavaScript" align="left" width="50px" src="https://skillicons.dev/icons?i=js">
+  <img alt="HTML5" align="left" width="50px" src="https://skillicons.dev/icons?i=html">
+  <img alt="CSS3" align="left" width="50px" src="https://skillicons.dev/icons?i=css">
+  <img alt="NodeJS" align="left" width="50px" src="https://skillicons.dev/icons?i=nodejs">
+  <img alt="npm" align="left" width="50px" src="https://skillicons.dev/icons?i=npm">
+  <img alt="C#" align="left" width="50px" src="https://skillicons.dev/icons?i=cs">
+  <img alt="VSCode" align="left" width="50px" src="https://skillicons.dev/icons?i=vscode">
 </div>
 
+<br>
+<br>
 <br>
 <br>
 
