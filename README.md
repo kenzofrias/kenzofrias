@@ -18,7 +18,15 @@
 
 <br>
 
-## 🛠️ Tecnologias e Ferramentas
+## ⭐ Principais projetos
+<ul>
+  <li><a href="https://github.com/kenzofrias/portfolio">Portfólio</a></li>
+  <li><a href="https://github.com/kenzofrias/projeto-login">Página de Login</a></li>
+  <li><a href="https://github.com/kenzofrias/projeto-cordel">Projeto Cordel Moderno</a></li>
+  <li><a href="https://github.com/kenzofrias/projeto-android">Projeto Android</a></li>
+</ul>
+
+## 🛠️ Tecnologias e ferramentas
 <div style="display: inline_block">
   <img alt="JavaScript" align="left" width="50px" src="https://skillicons.dev/icons?i=js">
   <img alt="HTML5" align="left" width="50px" src="https://skillicons.dev/icons?i=html">
@@ -35,8 +43,6 @@
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=0D1117&color=2b58de&line=2b58de&point=2b58de&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições+de+Kenzo+Friás)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-***<p align="center">Para saber mais sobre mim, clique <a href="https://kenzofrias.github.io/portfolio-apresentacao/">aqui</a>.</p>***
 
 ##
 <div align="center"> 
