@@ -36,6 +36,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=0D1117&color=2b58de&line=2b58de&point=2b58de&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições+de+Kenzo+Friás)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- ***<p align="center">Para saber mais sobre mim, clique <a href="#">aqui</a>.</p>*** -->
+
 ##
 <div align="center"> 
   <a href="https://instagram.com/kenzogb_fr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
