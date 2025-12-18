@@ -17,7 +17,7 @@
 </div>
 
 <br>
-
+<!--
 ## ⭐ Principais projetos
 <ul>
   <li><a href="https://github.com/kenzofrias/portfolio">Portfólio</a></li>
@@ -25,6 +25,7 @@
   <li><a href="https://github.com/kenzofrias/projeto-cordel">Projeto Cordel Moderno</a></li>
   <li><a href="https://github.com/kenzofrias/projeto-android">Projeto Android</a></li>
 </ul>
+-->
 
 ## 🛠️ Tecnologias e ferramentas
 <div style="display: inline_block">
