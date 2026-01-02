@@ -8,7 +8,7 @@
   <p>
     Sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia(UFRA). <br>
     Atualmente estou me desenvolvendo em <strong>Back-end com .Net</strong> e adquirindo conhecimentos sobre <br>
-    ferramentas fundamentais tanto para a área back-end, quanto para front-end, além de aprimorar <br>
+    ferramentas fundamentais tanto para a área back-end quanto para front-end, além de aprimorar <br>
     conhecimentos básicos anteriormente aprendidos.
   </p>
 </div>  
