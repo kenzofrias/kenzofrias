@@ -27,7 +27,7 @@
 </ul>
 -->
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Linguagens e Ferramentas
 <div style="display: inline_block">
   <img alt="JavaScript" align="left" width="50px" src="https://skillicons.dev/icons?i=js">
   <img alt="HTML5" align="left" width="50px" src="https://skillicons.dev/icons?i=html">
@@ -36,6 +36,8 @@
   <img alt="npm" align="left" width="50px" src="https://skillicons.dev/icons?i=npm">
   <img alt="C#" align="left" width="50px" src="https://skillicons.dev/icons?i=cs">
   <img alt="VSCode" align="left" width="50px" src="https://skillicons.dev/icons?i=vscode">
+  <img alt="VSCode" align="left" width="50px" src="https://skillicons.dev/icons?i=dotnet">
+  <img alt="VSCode" align="left" width="50px" src="https://skillicons.dev/icons?i=github">
 </div>
 
 <br>
