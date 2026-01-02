@@ -22,7 +22,8 @@
 
 ## 🛠️ Linguagens e Ferramentas
 <div align="center">
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js,html,css,nodejs,npm,cs,vscode,dotnet,github">
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js,html,css,nodejs,npm,cs">
+  <img alt="JavaScript" src="https://skillicons.dev/icons?i=vscode,dotnet,github">
 </div>
 
 <br>
