@@ -20,7 +20,7 @@
 
 <br>
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages and Tools
 <div align="center">
   <img alt="JavaScript" src="https://skillicons.dev/icons?i=cs,dotnet,vscode,github,js,nodejs">
   <img alt="JavaScript" src="https://skillicons.dev/icons?i=html,css,npm">
