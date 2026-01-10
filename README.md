@@ -12,6 +12,9 @@
   <a href="https://github.com/kenzofrias?tab=followers">
     <img src="https://img.shields.io/github/followers/kenzofrias?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
+
+  <br>
+  <br>
   
   <p>
     Sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia(UFRA). <br>
