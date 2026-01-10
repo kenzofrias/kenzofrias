@@ -5,6 +5,14 @@
 ##
 
 <div align="center">
+
+  <a href="https://github.com/kenzofrias">
+    <img src="https://komarev.com/ghpvc/?username=kenzofrias&color=2b58de" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/kenzofrias?tab=followers">
+    <img src="https://img.shields.io/github/followers/kenzofrias?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  
   <p>
     Sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia(UFRA). <br>
     Atualmente estou me desenvolvendo em <strong>Back-end com Dotnet</strong> e adquirindo conhecimentos sobre <br>
@@ -14,8 +22,8 @@
 </div>  
 
 <div style="display: inline_block" align="center"><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&show_icons=true&count_private=true&title_color=2b58de&icon_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br" alt="Kenzo Friás github stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=6&title_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kenzofrias&show_icons=true&count_private=true&title_color=2b58de&icon_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br" alt="Kenzo Friás github stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenzofrias&layout=compact&langs_count=6&title_color=2b58de&text_color=ffffff&bg_color=0d1117&locale=pt-br" alt="Kenzo Friás languages"/> 
 </div>
 
 <br>
