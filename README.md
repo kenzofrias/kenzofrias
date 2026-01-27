@@ -1,6 +1,4 @@
 # Kenzo Friás - Estudante Back-end com Dotnet
-
-## 🧑🏽‍💻 Sobre mim
 <p align="justify"> 
   Sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). 
   Atualmente estou me desenvolvendo em <strong>Back-end com Dotnet</strong> e adquirindo conhecimentos sobre
