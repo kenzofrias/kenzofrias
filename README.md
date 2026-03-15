@@ -6,11 +6,11 @@
   básicos anteriormente aprendidos.
 </p>
 
-## 💻 Habilidades atuais
-<img alt="Skills" src="https://skillicons.dev/icons?i=cs,dotnet,vscode,github">
+## 💻 Habilidades Atuais
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,vscode,github" />
 
 ## 🛠️ Linguagens e Ferramentas Conhecidas
-<img alt="Linguagens e Ferramentas" src="https://skillicons.dev/icons?i=js,nodejs,html,css,npm">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,html,css,npm" />
 
 ## ✏️ Projetos
 
