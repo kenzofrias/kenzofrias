@@ -10,7 +10,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,vscode,github" />
 
 ## 🛠️ Linguagens e Ferramentas Conhecidas
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,html,css,npm" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,html,css,npm,mongodb" />
 
 ## ✏️ Projetos
 
