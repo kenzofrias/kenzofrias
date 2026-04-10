@@ -17,7 +17,7 @@
 |Projeto                                                                     |Status   |Autoria               |
 |----------------------------------------------------------------------------|---------|----------------------|
 |[Tudo Brasil](https://github.com/kenzofrias/tudo-brasil)                    |Concluído|Pessoal               |
-|[Pokedex Dotnet](https://github.com/kenzofrias/pokedex-dotnet)              |Concluído|Pessoal               |
+|[Pokedex Api .Net](https://github.com/kenzofrias/pokedex-dotnet)              |Concluído|Pessoal               |
 |[Gerenciador de Tarefas](https://github.com/kenzofrias/trilha-net-api-mvc-desafio)|Concluído|Digital Innovation One|
 |[Simulador Pokedéx](https://github.com/kenzofrias/js-developer-pokedex)     |Concluído|Digital Innovation One|
 |[Portfólio](https://github.com/kenzofrias/js-developer-portfolio)           |Concluído|Digital Innovation One|
