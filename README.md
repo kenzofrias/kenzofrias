@@ -17,8 +17,8 @@
 |Projeto                                                                     |Status   |Autoria               |
 |----------------------------------------------------------------------------|---------|----------------------|
 |[Tudo Brasil](https://github.com/kenzofrias/tudo-brasil)                    |Concluído|Pessoal               |
-|[Simulador de Corridas](https://github.com/kenzofrias/Simulador-de-corridas)|Concluído|Digital Innovation One|
-|[Site Android](https://github.com/kenzofrias/projeto-android)               |Concluído|Curso em Vídeo        |
+|[Pokedex Dotnet](https://github.com/kenzofrias/pokedex-dotnet)              |Concluído|Pessoal               |
+|[Gerenciador de Tarefas](https://github.com/kenzofrias/trilha-net-api-mvc-desafio)|Concluído|Curso em Vídeo  |
 |[Simulador Pokedéx](https://github.com/kenzofrias/js-developer-pokedex)     |Concluído|Digital Innovation One|
 |[Portfólio](https://github.com/kenzofrias/js-developer-portfolio)           |Concluído|Digital Innovation One|
 
