@@ -12,15 +12,14 @@
 ## 🛠️ Linguagens e Ferramentas Conhecidas
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,mongodb,python,js,nodejs,html,css,npm&perline=6" />
 
-## ✏️ Projetos
+## ✏️ Projetos em Destaque
 
-|Projeto                                                                     |Status   |Autoria               |
-|----------------------------------------------------------------------------|---------|----------------------|
-|[Tudo Brasil](https://github.com/kenzofrias/tudo-brasil)                    |Concluído|Pessoal               |
-|[Pokedex Api .Net](https://github.com/kenzofrias/pokedex-dotnet)              |Concluído|Pessoal               |
-|[Gerenciador de Tarefas](https://github.com/kenzofrias/trilha-net-api-mvc-desafio)|Concluído|Digital Innovation One|
-|[Simulador Pokedéx](https://github.com/kenzofrias/js-developer-pokedex)     |Concluído|Digital Innovation One|
-|[Portfólio](https://github.com/kenzofrias/js-developer-portfolio)           |Concluído|Digital Innovation One|
+|Projeto                                                                            |  Linguagem  |
+|-----------------------------------------------------------------------------------|-------------|
+|[Sistema Bancário](https://github.com/kenzofrias/projeto-banco)                    |  C#/.Net    |
+|[Pokedex API](https://github.com/kenzofrias/pokedex-dotnet)                        |  C#/.Net    |
+|[Gerenciador de Tarefas](https://github.com/kenzofrias/trilha-net-api-mvc-desafio) |  C#/.Net    |
+|[Notícias Tudo Brasil](https://github.com/kenzofrias/tudo-brasil)                  | JS/CSS/HTML |
 
 <p>Na lista acima você vizualiza o nome de alguns dos meus principais projetos realizados em meus estudos.</p>
 
