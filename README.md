@@ -15,7 +15,7 @@
 ## ✏️ Projetos em Destaque
 
 |Projeto                                                                            |  Linguagem  |
-|-----------------------------------------------------------------------------------|-------------|
+|:---------------------------------------------------------------------------------:|:-----------:|
 |[Sistema Bancário](https://github.com/kenzofrias/projeto-banco)                    |  C#/.Net    |
 |[Pokedex API](https://github.com/kenzofrias/pokedex-dotnet)                        |  C#/.Net    |
 |[Gerenciador de Tarefas](https://github.com/kenzofrias/trilha-net-api-mvc-desafio) |  C#/.Net    |
