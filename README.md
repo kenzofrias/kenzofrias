@@ -1,10 +1,25 @@
-# Kenzo Friás - Estudante Back-end com Dotnet
+# Kenzo Friás - Estudante Back-end com .Net
+<!--
 <p align="justify"> 
   Sou estudante de Sistemas de Informação na Universidade Federal Rural da Amazônia (UFRA). 
   Atualmente estou me desenvolvendo em <strong>Back-end com Dotnet</strong> e adquirindo conhecimentos sobre
   ferramentas fundamentais tanto para a área back-end quanto para front-end, além de aprimorar conhecimentos 
   básicos anteriormente aprendidos.
 </p>
+-->
+<div align="center">
+
+```
+  🛠️ A disciplina de continuar aprendendo vale mais que a pressa de chegar.
+```
+
+</div>
+
+## 👨‍💻 Sobre mim
+🎓 Estudante de Sistemas de Informação na UFRA  
+💻 Desenvolvedor Back-end em formação com foco em .NET e ASP.NET Core  
+🚀 Buscando evoluir constantemente através de projetos práticos e boas práticas de desenvolvimento
+
 
 ## 💻 Habilidades Atuais
 <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,azure,vscode,github&perline=6" />
