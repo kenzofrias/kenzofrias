@@ -22,10 +22,10 @@
 
 
 ## 💻 Habilidades Atuais
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,azure,vscode,github&perline=6" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,docker,azure,vscode,git,github&perline=6" />
 
 ## 🛠️ Linguagens e Ferramentas Conhecidas
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,mongodb,python,js,nodejs,html,css,npm&perline=6" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,idea,mongodb,python,js,nodejs,html,css,npm&perline=6" />
 
 ## ✏️ Projetos em Destaque
 
