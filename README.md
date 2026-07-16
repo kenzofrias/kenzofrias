@@ -38,11 +38,11 @@
 -->
 <div align="center">
   
-[![Sistema Bancário](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=ProjetoBanco&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/ProjetoBanco)
-[![Pokedex API](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=pokedex-dotnet&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/pokedex-dotnet)
+[![Sistema Bancário](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=ProjetoBanco&cache_bust=1&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/ProjetoBanco)
+[![Pokedex API](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=pokedex-dotnet&cache_bust=1&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/pokedex-dotnet)
 
-[![Gerenciador de Tarefas](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=trilha-net-api-mvc-desafio&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/trilha-net-api-mvc-desafio)
-[![Notícias Tudo Brasil](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=tudo-brasil&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/tudo-brasil)
+[![Gerenciador de Tarefas](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=trilha-net-api-mvc-desafio&cache_bust=1&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/trilha-net-api-mvc-desafio)
+[![Notícias Tudo Brasil](https://helio-github-stats.vercel.app/api/pin?username=kenzofrias&repo=tudo-brasil&cache_bust=1&theme=transparent&hide_border=false&border_radius=4.5&card_width=466&icon_color=0000b0&text_color=ffffff)](https://github.com/kenzofrias/tudo-brasil)
 
 </div>
 <p>Na lista acima você vizualiza o nome de alguns dos meus principais projetos realizados em meus estudos.</p>
