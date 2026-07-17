@@ -50,12 +50,9 @@
 
 ## ⏳ Atividade
 <div align="center">
-  <div style="display: flex; gap: 10; justify-content: center; flex-wrap: wrap;">
 
-   <img src="https://ghstats.dev/api/card?username=kenzofrias&size=compact&show_emoji=true&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Github+Status+de+Kenzo+Friás" width="49%" alt="Github Stats Card" />
-  <img src="https://ghstats.dev/api/langs?username=kenzofrias&max_langs=3&layout=vertical_list&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Principais+Linguagens" width="49%" style="object-fit: cover;" alt="Top Languages" />
-
-  </div>
+   <img src="https://ghstats.dev/api/card?username=kenzofrias&size=compact&show_emoji=true&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Github+Status+de+Kenzo+Friás" width="400" alt="Github Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=kenzofrias&max_langs=3&layout=vertical_list&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Principais+Linguagens" width="400" style="object-fit: cover;" alt="Top Languages" />
 
 <br>
 
