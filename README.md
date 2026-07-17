@@ -51,8 +51,8 @@
 ## ⏳ Atividade
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=kenzofrias&size=compact&show_emoji=true&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Github+Status+de+Kenzo+Friás" height="200" width="470" alt="Github Stats Card" />
-<img src="https://ghstats.dev/api/langs?username=kenzofrias&max_langs=3&layout=vertical_list&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Principais+Linguagens" height="200" width="470" alt="Top Languages" />
+<img src="https://ghstats.dev/api/card?username=kenzofrias&size=compact&show_emoji=true&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Github+Status+de+Kenzo+Friás" height="200" width="466" alt="Github Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=kenzofrias&max_langs=3&layout=vertical_list&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Principais+Linguagens" height="200" width="466" alt="Top Languages" />
 
 <br>
 
