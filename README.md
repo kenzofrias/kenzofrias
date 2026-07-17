@@ -51,6 +51,11 @@
 ## ⏳ Atividade
 <div align="center">
 
+<img src="https://ghstats.dev/api/card?username=kenzofrias&size=compact&show_emoji=true&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Github+Status+de+Kenzo+Friás" height="200" alt="Github Stats Card" />
+<img src="https://ghstats.dev/api/langs?username=kenzofrias&max_langs=3&layout=vertical_list&title_color=0000b0&border_color=ffffff&text=ffffff&custom_title=Principais+Linguagens" height="176" alt="Top Languages" />
+
+<br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenzofrias&bg_color=0D1117&color=2b58de&line=2b58de&point=2b58de&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições+de+Kenzo+Friás)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
